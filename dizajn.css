@@ -1,0 +1,205 @@
+html {
+	background-image: url(img/bg.jpg);
+}
+body {
+	font-family: Lato, Arial;
+}
+.forma {
+	font-family:Lato, Arial;
+	height: 220px;
+	width: 400px;
+	background-color: #16a085;
+	
+	margin-left: 700px;
+	color: #ecf0f1;
+	text-align: center;
+	z-index: 100;
+	position: absolute;
+	float: right;
+}
+.izbornik {
+	text-align: center;
+	font-family: Lato, Arial;
+
+}
+.izbornik a {
+	text-decoration: none;
+	color: #2980b9;
+}
+.izbornik a:hover {
+	color: #16a085;
+}
+.izbornik a:active {
+	color: #2980b9;
+}
+.prijava {
+	height: 220px;
+	width: 400px;
+	background-color: #16a085;
+	margin-top: 200px;
+	margin-left: 500px;
+	color: #ecf0f1 !important;
+	text-align: center;
+	font-family: Lato, Arial;
+}
+.salji {
+	margin-left: 150px;
+}
+
+.vrste {
+	background-color: #2980b9;
+	width: 580px;
+	float: left;
+	position: relative;
+	z-index: -1;
+
+}
+.vrste a {
+	text-decoration: none;
+	color: white;
+}
+.vrste a:hover {
+	color:#f39c12 ;
+}
+.zapisnik {
+	width: 300px;
+	background-color: #16a085;
+	position: absolute;
+	margin-top: 15%;
+	margin-left: 38%;
+	font-family: Lato, Arial;
+	color: #ecf0f1;
+	text-align: justify;
+	
+}
+.zap {
+	text-align: center;
+}
+.btn_zapisnik {
+	position: relative;
+	margin-left: 90%;
+	background-color: #f39c12;
+	color: #16a085;
+}
+.btn_zapisnik:hover {
+	background-color: #16a085;
+	color: #f39c12;
+}
+.labela {
+	color: #ecf0f1;
+}
+th {
+	color: #ecf0f1;	
+}
+.btn_ispisi {
+	background-color: #f39c12;
+	color: #16a085;
+}
+.btn_ispisi:hover {
+	background-color: #16a085;
+	color: #f39c12;
+}
+
+.tablica {
+	border: 1px solid black  !important;
+	background-color: #2980b9  !important;
+	
+} 
+.tablica th {
+	border: 1px solid black  !important;
+}
+.tablica td {
+	border: 1px solid black  !important;
+}
+.tablica a{
+	text-decoration: none  !important;
+	color: white  !important;
+}
+.tablica a:hover {
+	color:#f39c12  !important;
+}
+.dodaj_zapis {
+	text-decoration: none !important;
+	color: #16a085; 
+
+}
+.dodaj_zapis:hover {
+	color: #f39c12;
+	font-style: bold; 
+}
+.natrag {
+	text-decoration: none !important;
+	color: #2980b9; 
+}
+.natrag:hover {
+	color: #27ae60;
+}
+.btn_filtar {
+	background-color: #f39c12;
+	color: #16a085;
+}
+.btn_filtar:hover {
+background-color: #16a085;
+	color: #f39c12;
+}
+.korisnici {
+	width: 400px;
+	background-color: #16a085;
+	position: absolute;
+	margin-top: 15%;
+	margin-left: 38%;
+	font-family: Lato, Arial;
+	color: #ecf0f1;
+	text-align: justify;
+}
+.tablica2 {
+	border: 1px solid black  !important;
+	background-color: #2980b9  !important;
+	margin-top: -150px;
+	
+}
+.tablica2 th {
+	border: 1px solid black  !important;
+}
+.tablica2 td {
+	border: 1px solid black  !important;
+}
+.tablica2 a{
+	text-decoration: none  !important;
+	color: white  !important;
+}
+.tablica2 a:hover {
+	color:#f39c12  !important;
+}
+.autor {
+	margin-left: 200px !important;
+	
+}
+.btn_vrsta {
+	position: relative;
+	margin-left: 50px;
+	background-color: #f39c12;
+	color: #16a085;
+}
+.slika {
+	margin-left: 430px;
+	margin-top: -370px;
+}
+.tablica3 {
+	border: 1px solid black  !important;
+	background-color: #2980b9  !important;
+	margin-top: -450px;
+}
+.tablica3 th {
+	border: 1px solid black  !important;
+}
+.tablica3 td {
+	border: 1px solid black  !important;
+}
+.tablica3 a{
+	text-decoration: none  !important;
+	color: white  !important;
+}
+.tablica3 a:hover {
+	color:#f39c12  !important;
+}
